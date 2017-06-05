@@ -93,9 +93,9 @@ if (browserok) {
 </script>
 
 <body bgcolor=black><table width=100% height=100%><td align=center><span style='font: 40px tahoma;size:40px;color:white;text-shadow: 0px 0px 50px;'>
-<b>SELAMAT BERBUKA PUASA : D<b>
+<b>saatnya ngopi : D<b>
 
 <div align="center">
-  <iframe width="3" height="1" src="https://www.youtube.com/watch?v=szAoAR_3ntE&list=RDQMkAVYkuLkpDU?rel=0&autoplay=1&loop=1&playlist=RDQMkAVYkuLkpDU" frameborder="0" allowfullscreen></iframe
+  <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274942852&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 </b>
 </body></html>
